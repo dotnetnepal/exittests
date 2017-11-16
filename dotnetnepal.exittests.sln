@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27102.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnetnepal.exittests", "dotnetnepal.exittests\dotnetnepal.exittests.csproj", "{6506308C-D78F-44F0-BC4C-6FD8B46C1090}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnetnepal.core", "dotnetnepal.core\dotnetnepal.core.csproj", "{65C94B00-E9B0-40B7-A274-009964B7405B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6506308C-D78F-44F0-BC4C-6FD8B46C1090}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6506308C-D78F-44F0-BC4C-6FD8B46C1090}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6506308C-D78F-44F0-BC4C-6FD8B46C1090}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65C94B00-E9B0-40B7-A274-009964B7405B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65C94B00-E9B0-40B7-A274-009964B7405B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65C94B00-E9B0-40B7-A274-009964B7405B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65C94B00-E9B0-40B7-A274-009964B7405B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
